@@ -1,4 +1,4 @@
-#  Problemas de POO (Associacoes e Heranca)
+#  Problemas de POO (Associações e Herança)
 
 Biblioteca de classes em **C#** que atende aos **10 problemas** solicitados nos enunciados, sendo eles:
 
