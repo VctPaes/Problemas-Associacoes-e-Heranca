@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Problemas_Associacoes-e-Heranca.Modelo/1.0.0": {
+        "runtime": {
+          "Problemas_Associacoes-e-Heranca.Modelo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problemas_Associacoes-e-Heranca.Modelo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

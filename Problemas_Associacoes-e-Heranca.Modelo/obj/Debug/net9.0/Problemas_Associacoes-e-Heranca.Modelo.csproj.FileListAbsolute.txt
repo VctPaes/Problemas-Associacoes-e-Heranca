@@ -1,0 +1,12 @@
+C:\Users\victo\Documents\GitHub\Problemas-Associacoes-e-Heranca\Problemas_Associacoes-e-Heranca.Modelo\bin\Debug\net9.0\Problemas_Associacoes-e-Heranca.Modelo.deps.json
+C:\Users\victo\Documents\GitHub\Problemas-Associacoes-e-Heranca\Problemas_Associacoes-e-Heranca.Modelo\bin\Debug\net9.0\Problemas_Associacoes-e-Heranca.Modelo.dll
+C:\Users\victo\Documents\GitHub\Problemas-Associacoes-e-Heranca\Problemas_Associacoes-e-Heranca.Modelo\bin\Debug\net9.0\Problemas_Associacoes-e-Heranca.Modelo.pdb
+C:\Users\victo\Documents\GitHub\Problemas-Associacoes-e-Heranca\Problemas_Associacoes-e-Heranca.Modelo\obj\Debug\net9.0\Problemas_Associacoes-e-Heranca.Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\GitHub\Problemas-Associacoes-e-Heranca\Problemas_Associacoes-e-Heranca.Modelo\obj\Debug\net9.0\Problemas_Associacoes-e-Heranca.Modelo.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\GitHub\Problemas-Associacoes-e-Heranca\Problemas_Associacoes-e-Heranca.Modelo\obj\Debug\net9.0\Problemas_Associacoes-e-Heranca.Modelo.AssemblyInfo.cs
+C:\Users\victo\Documents\GitHub\Problemas-Associacoes-e-Heranca\Problemas_Associacoes-e-Heranca.Modelo\obj\Debug\net9.0\Problemas_Associacoes-e-Heranca.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\GitHub\Problemas-Associacoes-e-Heranca\Problemas_Associacoes-e-Heranca.Modelo\obj\Debug\net9.0\Problemas_Associacoes-e-Heranca.Modelo.sourcelink.json
+C:\Users\victo\Documents\GitHub\Problemas-Associacoes-e-Heranca\Problemas_Associacoes-e-Heranca.Modelo\obj\Debug\net9.0\Problemas_Associacoes-e-Heranca.Modelo.dll
+C:\Users\victo\Documents\GitHub\Problemas-Associacoes-e-Heranca\Problemas_Associacoes-e-Heranca.Modelo\obj\Debug\net9.0\refint\Problemas_Associacoes-e-Heranca.Modelo.dll
+C:\Users\victo\Documents\GitHub\Problemas-Associacoes-e-Heranca\Problemas_Associacoes-e-Heranca.Modelo\obj\Debug\net9.0\Problemas_Associacoes-e-Heranca.Modelo.pdb
+C:\Users\victo\Documents\GitHub\Problemas-Associacoes-e-Heranca\Problemas_Associacoes-e-Heranca.Modelo\obj\Debug\net9.0\ref\Problemas_Associacoes-e-Heranca.Modelo.dll
