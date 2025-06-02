@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Problemas_Associacoes-e-Heranca.Modelo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0785fa9842022f37054764afefa5782379918329")]
 [assembly: System.Reflection.AssemblyProductAttribute("Problemas_Associacoes-e-Heranca.Modelo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Problemas_Associacoes-e-Heranca.Modelo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
